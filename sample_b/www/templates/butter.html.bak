@@ -1,0 +1,20 @@
+<div class="bar bar-header">
+  <a ui-sref="history"><button class="button button-icon icon ion-navicon"></button></a>
+  <div class="h1 title">Butter cookies</div>
+  <button class="button button-clear button-positive">Edit</button>
+</div>
+
+<div class="list card has-subheader">
+ <div class="item item-avatar">
+    <img src="img/ck1.jpg">
+    <h2>Butter cookies</h2>
+    <p>May 23, 2017</p>
+  </div>
+
+  <div class="item item-body">
+    <img class="full-image" src="img/ck1.jpg">
+    <p>
+
+  </div>
+
+</div>

@@ -1,0 +1,18 @@
+<div class="bar bar-header bar-calm">
+ <a ui-sref="history"><button class="button button-icon ion-arrow-left-a"> Black </button></a>
+  <h1 class="title"></h1>
+</div>
+
+<ul class="list has-subheader">
+    <li class="item  item-icon-left" href="#/history1">
+	<i class="icon ion-ios-flask">
+	</i>
+	ส่วนประกอบ
+    </li>
+
+	<li class="item  item-icon-left" href="#/history1">
+	<i class="icon ion-ios-paper">
+	</i>
+	ขั้นตอนการทำ
+    </li>
+</ul>

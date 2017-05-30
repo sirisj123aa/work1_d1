@@ -1,0 +1,23 @@
+<div class="bar bar-header bar-calm">
+  <a ui-sref="history"><button class="button button-icon icon ion-navicon"></button></a>
+  <div class="h1 title">Almond Cookies</div>
+  <button class="button button-clear button-positive">Edit</button>
+</div>
+
+<div class="list card has-subheader">
+ <div class="item item-avatar">
+    <img src="img/ck.jpg">
+    <h2>Almond Cookies</h2>
+    <p>May 23, 2017</p>
+  </div>
+
+  <div class="item item-body">
+    <img class="full-image" src="img/ck.jpg">
+    <p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;อัลมอนด์คุกกี้ หวานนิด ๆ เคี้ยวมัน กรอบ ๆ กรุบ ๆ หอมกลิ่นนมเพราะใส่นมผงสำหรับทำเบเกอรี่เข้าไปด้วยค่ะ ได้สูตรมาจาก blog ของคุณ ALDI อีกเช่นเคยค่ะ สูตรต้นฉบับใช้ไข่ทาหน้าขนม แต่รู้สึกว่าฝีมืออบขนมตัวเองยังไม่ดี ถ้าทาไข่ไปสงสัยจะไหม้แน่ๆ เลยขออนุญาตแปลงสูตรนิดนึงแล้วก็ลดน้ำตาลลงด้วยค่ะ เคยลองแบบน้ำตาลเต็มสูตรแล้วหวานนำโด่งมาเลยเพราะไม่มีไข่ไปตัดไว้ งานนี้เลยขอแบบหวานนิด ๆ มัน ๆ กรอบ ๆ
+	<button class="button button-balanced">
+  button-balanced
+</button>
+  </div>
+
+</div>
